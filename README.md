@@ -9,5 +9,5 @@ The code in this repo is somewhat chronological. <br/>
 and thus providing evidence that over time animals have evolved from searching randomly, to utilising the Levy flight as a means of
 efficienty searching for food. https://en.wikipedia.org/wiki/L%C3%A9vy_flight_foraging_hypothesis <br/>
 
-![Animal Foraging Example](foraging_plots2.png)
- 
+![Animal Foraging Example](foraging_plots2.png) <br/>
+Travel path of final evolution of Levy-flight based foraging animal(Left), Evolutionary path through parameter space (Right)
