@@ -10,4 +10,4 @@ and thus providing evidence that over time animals have evolved from searching r
 efficienty searching for food. https://en.wikipedia.org/wiki/L%C3%A9vy_flight_foraging_hypothesis <br/>
 
 ![Animal Foraging Example](foraging_plots2.png) <br/>
-Travel path of final evolution of Levy-flight based foraging animal(Left), Evolutionary path through parameter space (Right)
+Travel path of final evolution of Levy-flight based foraging animal (Left), Evolutionary path through parameter space (Right)
