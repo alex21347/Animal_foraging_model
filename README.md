@@ -1,5 +1,5 @@
 # Animal_foraging_model
-Modelling the movements of foraging animal as a Levy Flight trained via evolutionary algorithm <br/>
+Modelling the movements of foraging animal as a Levy Flight trained via evolutionary algorithm. <br/>
 <br/>
 The code in this repo is somewhat chronological. <br/>
 <br/>
